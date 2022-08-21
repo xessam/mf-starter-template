@@ -1,0 +1,1 @@
+A simple starter template with minimal setup for modules that work with nextjs shell. 
